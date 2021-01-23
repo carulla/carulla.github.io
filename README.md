@@ -1,2 +1,2 @@
-###(b)Curriculum Vitae(b)
+# **Curriculum Vitae**
 # carulla.github.io
