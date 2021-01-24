@@ -4,20 +4,16 @@
 		<link rel="stylesheet" type="text/css" href="w3.css">
     </head>	
     <title>Curriculum Vitae</title>
-
-    
     <style type="text/css">
     	html, body{
-    
 		margin: auto; 
 		height: auto;
-		
 		background-color: lightgray;
 		display: flex;
 		justify-content: top;
 		flex-direction: column;
 			}
-			#r img{
+#r img{
 	width:250px;
 	height:250px;
 	margin:5 0 5 0;
@@ -34,19 +30,16 @@
 	margin:5 0 5 0;
 	width: 750px;
 	height: 40%;
-	
 	display: flex;
 	justify-content: top;
-	flex-direction: column;
-	
+	flex-direction: column;	
 }
 	
 
 #titulo{
   		color: white;
   		background-color: #003399;
-  		font-size:33px;
-  		 
+  		font-size:33px; 
   		border-radius:100px 0px;
   		width: 65%;
 		height: 50%;
@@ -72,14 +65,12 @@
 	color: #003399;
 	font-style: bold;
 	font-size: 22px;
-	
 	width: 65%;
 	height: 50%;
 	margin: 0 auto;
 	display: flex;
 	justify-content: top;
 	flex-direction: column;
-
 }
 .empresa{
 	color: white;
@@ -104,7 +95,6 @@
 	justify-content: center;
 	flex-direction: column;
 	border-radius:0px 15px;
-	
 }
 .descricao{
 	color: #003399;
@@ -140,7 +130,6 @@
 	width: 500px;
 	height:400px;
 	margin: 0 0 0 0;
-		
 		background-color: lightgray;
 		display: flex;
 		justify-content: top;
@@ -161,7 +150,6 @@
 	width: 750px;
 	height:0px;
 	margin: 10 500px 0 270px;
-		
 		background-color: lightgray;
 		display: flex;
 		justify-content: top;
@@ -170,7 +158,6 @@
 	}
 .idiomas{
 	color: #003399;
-	
 	font-size: 22px;
 	background-color: white;
 	border-radius:0px 20px;
@@ -180,8 +167,7 @@
 	display: flex;
 	justify-content: top;
 	flex-direction: column;
-	float:left;
-	
+	float:left;	
 }
 .idiomas1{
 	color: #003399;
@@ -201,34 +187,26 @@
 	margin:5 0 5 0;
 	width: 50%;
 	height: 40%;
-	
 	display: flex;
 	justify-content: top;
 	flex-direction: column;
-	
 	}
 .ingles{
 	color: #003399;
 	margin: 5 0 5 0;
 	width: 50%;
 	height: 5%;
-	
 	display: flex;
 	justify-content: top;
 	flex-direction: column;
-	
 	}
 #certificate img{
 	margin:5 0 5 0;
 	width: 50px
-	height: 200px
-	
+	height: 200px	
 }
     </style>
     <body>
-
-    	
-
 		 <header id="titulo" align="center">Gabriel Carulla Abucater de Santana</header>
 		        <h2 id="subtitulo" align="center"><b>Professor de Inglês, Jornalista, Desenvolvedor Web, Programador</b></h2>
 	<div id="split1">
@@ -243,7 +221,6 @@
 		        <h4 class="empresa" id="cultura"><b>Cultura Inglesa Tambauzinho, João Pessoa-PB — <i>Monitor</i></b>
 		     </h4>
 		<p class="data">MARÇO DE 2019 - MARÇO DE 2020</p>
-
 		<i class="descricao">
 			Como professor do programa de tutoria para alunos com dificuldades de aprendizagem ou que necessitavam de reposição de conteúdos, teve a oportunidade de lidar
 			com alunos de diversas faixas etárias e níveis de inglês, desde crianças até idosos, do inglês básico ao intermediário.
@@ -257,10 +234,8 @@
 		<h4 class="empresa" id="barco"><b>
 			Embarcação Extremo Oriente, João Pessoa-PB  — <i>Social Media</i></b></h4>
 			<p class="data">FREELANCE</p>
-
 			<i class="descricao">
 			Como Social Media freelancer, produziu vídeos, artes personalizadas e textos como conteúdo de Marketing para a  empresa do ramo turístico.</i>
-
 			<h3 id="exp"><b>FORMAÇÃO:</b></h3>
 			<h4 class="empresa" id="ufpb"><b>
 			Universidade Federal da Paraíba, João Pessoa-PB — <i>Graduando</i></b></h4>
@@ -285,8 +260,5 @@
 						<div id="certificate"><img src = "caecertificate.png"></div>
 					</div id = "right">
 	</div id="split">
-
-
-		</body>
-		    
+		</body>    
 	</html>
