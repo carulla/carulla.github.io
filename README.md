@@ -3,9 +3,199 @@
 	<body>
 	<head>
 		<link rel="stylesheet" type="text/css" href="w3.css">
-  		
+		</head>	
 <title>Curriculum Vitae</title>
   	 <style type="text/css">
+#r img{
+		width:250px;
+		height:250px;
+		margin:5 0 5 0;
+		border-color: lightgrey
+		border: solid;
+		border-radius:300px;
+		float:left;
+		display:flex;
+		justify-content: top;
+		flex-direction: column;
+	}
+#resumo{
+		color: #003399;
+		margin:5 0 5 0;
+		width: 750px;
+		height: 40%;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;	
+	}
+#titulo{
+  		color: white;
+  		background-color: #003399;
+  		font-size:33px; 
+  		border-radius:100px 0px;
+  		width: 65%;
+		height: 50%;
+		margin: 5 auto;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+  		}
+#subtitulo{
+		font-size:15px;
+		color:#003399;
+		background-color: lightgrey ;
+		border:solid;
+		border-radius: 0px 50px 0px 50px;
+		width: 65%;
+		height: 50%;
+		margin: 0 auto;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		}
+#exp{
+		color: #003399;
+		font-style: bold;
+		font-size: 22px;
+		width: 65%;
+		height: 50%;
+		margin: 0 auto;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		}	
+.empresa{
+		color: white;
+		font-style: bold;
+		font-size: 22px;
+		background-color: #003399;
+		border-radius:20px 0px;
+		width: 65%;
+		height: 50%;
+		margin: 0 auto;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		}
+.data{
+		color:#003399;
+		border:solid;
+		width: 22%;
+		height: 50%;
+		margin: 0 270 0 270;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		border-radius:0px 15px;
+		}
+.descricao{
+		color: #003399;
+		margin:0 0 0 0;
+		width: 65%;
+		height: 50%;
+		margin: 0 auto;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		}
+#split{
+		width:1000px;
+		height:500px;
+		margin: 10 270 10 270;
+		}
+#split1{
+		width:1000px;
+		height:250px;
+		margin: 10 250 10 250;
+		}
+#left{
+		width:500px;
+		height:400px;
+		margin: 0 0 0 0;
+		background-color: lightgray;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;
+		}
+#right{
+		width: 500px;
+		height:400px;
+		margin: 0 0 0 0;
+		background-color: lightgray;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;
+		}
+#left1{
+		width:250px;
+		height:0px;
+		margin: 0 0 0 0;
+		background-color: lightgray;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;
+		}
+#right1{
+		width: 750px;
+		height:0px;
+		margin: 10 500px 0 270px;
+		background-color: lightgray;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;
+		}
+.idiomas{
+		color: #003399;
+		font-size: 22px;
+		background-color: white;
+		border-radius:0px 20px;
+		width: 170px;
+		height: 33px;
+		margin: 0 0 0 0;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;	
+		}
+.idiomas1{
+		color: #003399;
+		font-size: 22px;
+		background-color: white;
+		border-radius:0px 20px;
+		width: 170px;
+		height: 27%;
+		margin: 0 0 0 0;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		float:left;
+		}
+.cert{
+		color: #003399;
+		margin:5 0 5 0;
+		width: 50%;
+		height: 40%;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		}
+.ingles{
+		color: #003399;
+		margin: 5 0 5 0;
+		width: 50%;
+		height: 5%;
+		display: flex;
+		justify-content: top;
+		flex-direction: column;
+		}
+#certificate img{
+		margin:5 0 5 0;
+		width: 50px
+		height: 200px	
+		}
     	html, body{
 		margin: auto; 
 		height: auto;
