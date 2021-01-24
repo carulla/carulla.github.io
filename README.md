@@ -1,10 +1,10 @@
 # **Curriculum Vitae**
-	<html>
-	 <body>
+<html>
+	<body>
 	<head>
 		<link rel="stylesheet" type="text/css" href="w3.css">
   		
-		<title>Curriculum Vitae</title>
+<title>Curriculum Vitae</title>
   	 <style type="text/css">
     	html, body{
 		margin: auto; 
