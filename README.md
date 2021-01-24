@@ -1,12 +1,11 @@
 # **Curriculum Vitae**
-<html>
-  <head>
-	<link rel="stylesheet" type="text/css" href="w3.css">
-  </head>	
-	
-<title>Curriculum Vitae</title>
-   
-   <style type="text/css">
+	<html>
+	 <body>
+	<head>
+		<link rel="stylesheet" type="text/css" href="w3.css">
+  		
+		<title>Curriculum Vitae</title>
+  	 <style type="text/css">
     	html, body{
 		margin: auto; 
 		height: auto;
@@ -14,8 +13,10 @@
 		display: flex;
 		justify-content: top;
 		flex-direction: column;
-	}
-	#r img{
+		}
+   	 </style>
+   	</head>
+    #r img{
 		width:250px;
 		height:250px;
 		margin:5 0 5 0;
@@ -205,8 +206,6 @@
 		width: 50px
 		height: 200px	
 		}
-    </style>
-    <body>
 		 <header id="titulo" align="center">Gabriel Carulla Abucater de Santana</header>
 		        <h2 id="subtitulo" align="center"><b>Professor de Inglês, Jornalista, Desenvolvedor Web, Programador</b></h2>
 	<div id="split1">
@@ -261,4 +260,4 @@
 			</div id = "right">
 		</div id="split">
 	</body>    
-</html>
+	</html>
